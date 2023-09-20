@@ -1,5 +1,5 @@
 {
-  "name": "react_goods-selector-js",
+  "name": "flight_weather_app",
   "homepage": ".",
   "version": "0.1.0",
   "keywords": [],
@@ -62,7 +62,7 @@
   },
   "mateAcademy": {
     "_comment": "Replace 'react' with 'reactTypescript' if you want use React with Typescript",
-    "projectType": "react",
+    "projectType": "reactTypescript",
     "tests": {
       "_comment": "Add `cypressComponents: true` to enable component tests",
       "cypress": true
