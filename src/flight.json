@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "origin": "Paris",
+    "destination": "Rome",
+    "airline": "Air France",
+    "departureTime": "2023-09-16T08:00:00",
+    "arrivalTime": "2023-09-16T11:00:00",
+    "price": "€250"
+  },
+  {
+    "id": 2,
+    "origin": "Berlin",
+    "destination": "Amsterdam",
+    "airline": "Lufthansa",
+    "departureTime": "2023-09-17T10:30:00",
+    "arrivalTime": "2023-09-17T13:30:00",
+    "price": "€280"
+  },
+  {
+    "id": 3,
+    "origin": "Barcelona",
+    "destination": "Milan",
+    "airline": "Ryanair",
+    "departureTime": "2023-09-18T09:15:00",
+    "arrivalTime": "2023-09-18T12:15:00",
+    "price": "€220"
+  },
+  {
+    "id": 4,
+    "origin": "Vienna",
+    "destination": "Prague",
+    "airline": "Austrian Airlines",
+    "departureTime": "2023-09-19T14:30:00",
+    "arrivalTime": "2023-09-19T16:30:00",
+    "price": "€180"
+  },
+  {
+    "id": 5,
+    "origin": "Athens",
+    "destination": "Istanbul",
+    "airline": "Turkish Airlines",
+    "departureTime": "2023-09-20T07:45:00",
+    "arrivalTime": "2023-09-20T10:45:00",
+    "price": "€320"
+  },
+  {
+    "id": 6,
+    "origin": "Dublin",
+    "destination": "Copenhagen",
+    "airline": "Aer Lingus",
+    "departureTime": "2023-09-21T12:00:00",
+    "arrivalTime": "2023-09-21T15:00:00",
+    "price": "€270"
+  },
+  {
+    "id": 7,
+    "origin": "Munich",
+    "destination": "Zurich",
+    "airline": "Swiss International Air Lines",
+    "departureTime": "2023-09-22T08:45:00",
+    "arrivalTime": "2023-09-22T10:45:00",
+    "price": "€200"
+  },
+  {
+    "id": 8,
+    "origin": "Oslo",
+    "destination": "Stockholm",
+    "airline": "Scandinavian Airlines",
+    "departureTime": "2023-09-23T16:15:00",
+    "arrivalTime": "2023-09-23T18:15:00",
+    "price": "€150"
+  },
+  {
+    "id": 9,
+    "origin": "Helsinki",
+    "destination": "Tallinn",
+    "airline": "Finnair",
+    "departureTime": "2023-09-24T11:30:00",
+    "arrivalTime": "2023-09-24T13:30:00",
+    "price": "€210"
+  },
+  {
+    "id": 10,
+    "origin": "Lisbon",
+    "destination": "Madrid",
+    "airline": "Iberia",
+    "departureTime": "2023-09-25T09:30:00",
+    "arrivalTime": "2023-09-25T11:30:00",
+    "price": "€190"
+  }
+]
