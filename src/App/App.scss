@@ -1,12 +1,21 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
 
-.app {
-  font-family: "Roboto", sans-serif;
-  padding: 10px;
-  width: 350px;
+body {
+  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
+}
+
+.app {
+  font-family: "Roboto", sans-serif;
+  padding: 10px;
+  width: 1000px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   gap: 10px;
 }
 
@@ -15,6 +24,6 @@ button {
   display: inline-block;
 }
 
-h1 {
-  text-align: center;
+.app-name {
+  align-self: flex-start;
 }
